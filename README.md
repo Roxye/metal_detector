@@ -3,7 +3,9 @@
 
 ### Présentation
 
-De nos jours, les détecteurs de métaux sont plutôt connus pour la découverte d’or ou de vieilles pièces de monnaie. Cependant, ils possèdent de nombreuses autres applications, notamment dans le domaine de la sécurité. Un détecteur de métal permet ainsi de repérer la présence d’un métal sur un individu ou dans le sol. Dans tous les cas, leur principe de fonctionnement repose sur l’induction électromagnétique, autrement dit le transfert d’énergie entre une bobine détectrice et un métal. Ce sujet coïncidant avec le thème de TIPE et le programme de seconde année, j’ai choisi de me pencher sur la problématique suivante : quel est le principe de fonctionnement d’un détecteur de métal et plus précisément d’un détecteur à battements de fréquence ? 
+De nos jours, les détecteurs de métaux sont plutôt connus pour la découverte d’or ou de vieilles pièces de monnaie. Cependant, ils possèdent de nombreuses autres applications, notamment dans le domaine de la sécurité. Un détecteur de métal permet ainsi de repérer la présence d’un métal sur un individu ou dans le sol. Dans tous les cas, leur principe de fonctionnement repose sur l’induction électromagnétique, autrement dit le transfert d’énergie entre une bobine détectrice et un métal.
+
+Ce sujet coïncidant avec le thème de TIPE et le programme de seconde année, j’ai choisi de me pencher sur la problématique suivante : quel est le principe de fonctionnement d’un détecteur de métal et plus précisément d’un détecteur à battements de fréquence ? 
 
 ### Démarche
 
