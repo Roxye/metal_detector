@@ -7,7 +7,11 @@ De nos jours, les détecteurs de métaux sont plutôt connus pour la découverte
 
 ### Démarche
 
-Au début, je m’étais intéressée au détecteur antivol. Malheureusement, c’est un domaine très protégé, et à cause du peu d’informations que j’avais à ma disposition, j’ai dû abandonner ce projet et je me suis réorientée vers un autre sujet qui repose sur le même principe : le détecteur de métaux. Après avoir modélisé le détecteur, j’ai réalisé avec un circuit très simple quelques expériences qui m’ont permis de voir l’influence sur la détection de certains paramètres, comme la distance métal/bobine et le nombre de spires de la bobine. Mais j’ai compris que le circuit était trop simple pour pourvoir réellement répondre à ma problématique. Alors à l’aide d’un camarade et d’un ouvrage spécialisé, nous avons construit un détecteur à battements de fréquence, car ce modèle plus élaboré est le plus simple à comprendre et à réaliser. Après avoir commandé le circuit imprimé et acheté les composants, nous avons soudé l’ensemble et après quelques tests nous avons pu obtenir des courbes qui montrent la variation de l’inductance de la bobine détectrice, par la présence de métal. Par la suite, j’ai décidé de m’intéresser aux limites du détecteur à battement de fréquence, au lieu d’étudier la discrimination des métaux. En effet, ce type de détecteur n’est pas très performant et les résultats des expériences que nous avions réalisées pour distinguer la nature des différents métaux n’ont pas été concluants.  
+Au début, je m’étais intéressée au détecteur antivol. Malheureusement, c’est un domaine très protégé, et à cause du peu d’informations que j’avais à ma disposition, j’ai dû abandonner ce projet et je me suis réorientée vers un autre sujet qui repose sur le même principe : le détecteur de métaux.
+
+Après avoir modélisé le détecteur, j’ai réalisé avec un circuit très simple quelques expériences qui m’ont permis de voir l’influence sur la détection de certains paramètres, comme la distance métal/bobine et le nombre de spires de la bobine. Mais j’ai compris que le circuit était trop simple pour pourvoir réellement répondre à ma problématique. Alors à l’aide d’un camarade et d’un ouvrage spécialisé, nous avons construit un détecteur à battements de fréquence, car ce modèle plus élaboré est le plus simple à comprendre et à réaliser. 
+
+Après avoir commandé le circuit imprimé et acheté les composants, nous avons soudé l’ensemble et après quelques tests nous avons pu obtenir des courbes qui montrent la variation de l’inductance de la bobine détectrice, par la présence de métal. Par la suite, j’ai décidé de m’intéresser aux limites du détecteur à battement de fréquence, au lieu d’étudier la discrimination des métaux. En effet, ce type de détecteur n’est pas très performant et les résultats des expériences que nous avions réalisées pour distinguer la nature des différents métaux n’ont pas été concluants.  
 
 ### Plan
 I - Approche théorique du détecteur à battements de fréquence
@@ -31,5 +35,5 @@ Après avoir compris le fonctionnement du détecteur à battement de fréquence,
 
 - Gérard Samblancat : Construisez vos détecteurs de métaux
 - Guy Zaloylo : Etude et conception d’un dispositif de détection de fines particules métalliques
--« http://www.odpf.org/images/archives_docs/18eme/memoires/gr-3/memoire.pdf »
-- « http://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_m%C3%A9taux »
+- « http://www.odpf.org/images/archives_docs/18eme/memoires/gr-3/memoire.pdf »
+- Wikipedia "Détecteurs de métaux": « http://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_m%C3%A9taux »
